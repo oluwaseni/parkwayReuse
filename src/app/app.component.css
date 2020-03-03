@@ -1,0 +1,47 @@
+#div1{
+    width:200px;
+    height: 200px;
+    background-color: #cccc22;
+    padding: 10px;
+    text-align: center;
+    cursor:pointer;
+  }
+  #div2{
+    
+    width:150px;
+    height: 150px;
+    background-color: #c55622;margin:auto;
+    text-align: center;
+    cursor:pointer;
+  }
+
+  .click{
+      width: 100%;
+      height: 100%;
+      z-index: 200;
+  }
+
+  td{
+      /* border-right: solid 1px; */
+      width: max-content !important;
+      padding-left: 5% !important;
+      padding-right: 5% !important;
+  }
+
+  th{
+    padding-left: 5% !important;
+    padding-right: 5% !important;
+  }
+  
+  tr{
+      border: solid 1px !important;
+  }
+  #div3{
+    margin: auto;
+    width:100px;
+    height: 100px;
+    background-color: #c55622;
+    border: solid  #cccc22;
+    text-align: center;
+    cursor:pointer;
+  }
